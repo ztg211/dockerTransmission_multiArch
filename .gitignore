@@ -1,1 +1,5 @@
-./.idea/*
+/envs/buildargs_mac
+/local_start.sh
+/.gitignore
+/.gradle
+/.idea
